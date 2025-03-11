@@ -120,6 +120,28 @@ Conclusion
 The Marketing Analytics Dashboard serves as a comprehensive tool for monitoring, analyzing, and optimizing marketing performance. It provides actionable insights that help businesses improve their advertising strategies and maximize return on investment.
 
 
-Conclusion
+Dataset
 ----------
 Dataset link: https://onyxdata.co.uk/data-dna-dataset-challenge/datadna-dataset-archive/
+
+
+Campaign	Marketing campaign 
+Date	Date for daily ad performance metrics
+City/Location	Cities that were targeted by campaign
+Latitude	Latitude for the cities
+Longitude	Longitude for the cities
+Channel	Channel where ads where displayed (Facebook, Instagram, Pinterest)
+Device	Device from ads where viewed
+Ad	Ads that where used within a campaign
+Impressions	Daily impressions (times ad was shown to a viewer) for each ad
+CTR, %	Daily average click-through rate for each ad
+Clicks	Daily clicks for each ad
+Daily Average CPC	Daily average cost-per-click for each ad
+Spend, GBP	Total daily amount of advertising spending for each ad, in GBP
+Conversions	Total daily purchases attributed to a specific ad
+Total conversion value, GBP	Total amount in GBP received from purchases attributed to a specific ad
+Likes	Total daily likes (or other reactions) per ad 
+Shares	Total daily shares per ad. For the simplicities sake, each Pin on Pinterest is counted as a share
+Comments	Total daily comments per ad 
+![image](https://github.com/user-attachments/assets/3b14fda5-b3a6-4f58-8e18-44d953e7e68c)
+
